@@ -1,2 +1,2 @@
 # orb_slam2_dense
-orbslam2稠密建图
+使用orbslam2+kinect2在ros环境下进行稠密建图
